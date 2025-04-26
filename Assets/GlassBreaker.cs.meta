@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a0d227cfb76dcc9479d4b4a2acb0cc28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glassBreakSound: {fileID: 8300000, guid: 3f06922af888ad14b837002349b4a96a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sat Productions/E-01/Auto Build Versioning Tool/Scenes/Demo Scene.unity
+    guid: fe85e24d5dd0e7b4ebbe296ee7a3905b
+  m_configObjects:
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7f9cceb35ee92b648ac744b43ad658cb, type: 2}
